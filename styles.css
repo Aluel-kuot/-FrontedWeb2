@@ -1,0 +1,64 @@
+body{
+    background-image:url("phot.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.maindiv{
+    display: flex;
+}
+nav{
+margin-right: 10px;   
+margin-top: 10px;
+margin-left: 500px;
+
+}
+nav a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: larger;
+    margin: 5px;
+    padding: 5px;
+}
+button{
+    border-radius: 10px;
+    font-size: large;
+    background-color: rgb(140, 94, 146);
+}
+.maindiv{
+    margin-left: 100px;
+padding-bottom: 40px;
+color: white;
+}
+.kipling{
+    font-size: larger;
+    font-weight: bolder;
+    margin-bottom: 50%; 
+}
+
+.button1{
+    border: none;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+}
+.p1{
+    font-size:x-large;
+    font-weight: bolder;
+    color:rgb(47, 10, 68);
+
+}
+.p2{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.p3{
+    font-weight: bolder;
+    color: rgb(54, 5, 99);
+
+}
+.content{
+    margin-top: 100px;
+}
+
+
+    
